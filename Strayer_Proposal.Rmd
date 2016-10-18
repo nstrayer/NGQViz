@@ -1,0 +1,27 @@
+---
+title: "FASTQ File Statistics and Visualization Tool"
+author: "Nick Strayer"
+date: "10/18/2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## Specific Aims
+
+1. Develop a tool that can take an input of a fastq file, then generate a visual summary of the file containing basic statistics/ a form of the reads represented in a visual form. 
+Re-develope, in a fast and expandable way the old software that came out awhile ago. 
+2. Help facilitate alignment by hand. Specify gap costs, etc and have the tool align the sequences while you watch. This could be valuable for checking the accuracy but also informative for training individuals how sequence alignment works. 
+3. Provide stronger inference about a given base than a simple probability. 
+
+
+---
+
+## Background and Significance 
+
+---
+
+## Research Plan
